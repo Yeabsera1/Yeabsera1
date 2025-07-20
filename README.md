@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Yeabsera!
 
-🎓 Sophomore at Vanderbilt University majoring in Computer Science and Mathematics, with a minor in Engineering Management  
-💻 Aspiring Software Engineer and AI Enthusiast passionate about building tech that drives impact  
+🎓 Junior at Vanderbilt University majoring in Computer Science and Mathematics, with a minor in Engineering Management  
+💻 Aspiring Software Engineer and AI Enthusiast, passionate about building tech that drives impact  
 
 I'm driven by a love for clean code, strong systems, and solving real-world problems with scalable technology. Whether it's building a trivia game from scratch or integrating secure payments for 30,000+ users, I enjoy working at the intersection of software, people, and purpose.
 
-I’m currently a Break Through Tech AI Fellow at Cornell Tech and a Career Prep Fellow with MLT. Let’s connect if you’re into AI, product engineering, or just want to build something cool together!
+I’m currently a Breakthrough Tech AI Fellow at Cornell Tech and a Career Prep Fellow with MLT. Let’s connect if you’re into AI, product engineering, or just want to build something cool together!
 
 ---
 
